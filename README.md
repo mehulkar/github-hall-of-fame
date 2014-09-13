@@ -4,10 +4,10 @@ Open source sometimes is awesome.
 
 ### Issues
 
-- https://github.com/rails/rails/issues/16731
-- https://github.com/rails/rails/issues/1
+- [Awesomeness](https://github.com/rails/rails/issues/16731)
+- [Not Django](https://github.com/rails/rails/issues/1)
 
 
 ### Comments
 
-- https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169
+- [Revolution](https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169)
