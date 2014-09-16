@@ -7,7 +7,10 @@ Open source sometimes is awesome.
 - [Awesomeness](https://github.com/rails/rails/issues/16731)
 - [Not Django](https://github.com/rails/rails/issues/1)
 
-
 ### Comments
 
 - [Revolution](https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169)
+
+### Pull Request
+
+- [Leader/follower instead of master/slave](https://github.com/django/django/pull/2692)
