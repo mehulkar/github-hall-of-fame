@@ -11,3 +11,8 @@ Open source sometimes is awesome.
 ### Comments
 
 - [Revolution](https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169)
+
+
+### Angular
+
+- [Unicorn](https://github.com/btford/angular-unicorn-directive)
