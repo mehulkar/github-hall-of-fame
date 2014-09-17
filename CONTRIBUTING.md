@@ -1,5 +1,7 @@
 # Contributing
 
+#### What is worthy?
+
 In my opnion, this Hall of Fame is to showchase things that
 Github enables or highlights. I'm generally looking for anything
 that could be described as epic.
@@ -18,3 +20,11 @@ may be modified. Feel free to explain why something deserves to
 be in the Hall of Fame when you submit PRs.
 
 Also feel free to ask on Twitter at [@mehulkar](http://twitter.com/mehulkar).
+
+#### Structure
+
+Add a file with markdown format link. The filenames should
+be dasherized. Because I like dasherized filenames. (And dashes
+are easier to type than underscores). They should
+also be lowercased. Because I like lowercase filenames.
+Add the file to the appropriate directory.

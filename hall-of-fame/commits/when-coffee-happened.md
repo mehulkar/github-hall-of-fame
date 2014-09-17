@@ -1,0 +1,1 @@
+[When Coffee Happened](https://github.com/rails/rails/commit/9f09aeb8273177fc2d09ebdafcc76ee8eb56fe33)
