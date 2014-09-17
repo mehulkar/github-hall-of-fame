@@ -7,6 +7,7 @@ Open source sometimes is awesome.
 - [Awesomeness](https://github.com/rails/rails/issues/16731)
 - [Not Django](https://github.com/rails/rails/issues/1)
 - [Occasional Shutdown](https://github.com/WhiteHouse/fortyfour/issues/3)
+- [Semicolons](https://github.com/twbs/bootstrap/issues/3057)
 
 
 ### Comments
