@@ -1,0 +1,1 @@
+[Remembering Jim Weirich](https://github.com/jimweirich/wyriki/commit/d28fac7f18aeacb00d8ad3460a0a5a901617c2d4)
