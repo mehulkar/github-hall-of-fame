@@ -13,6 +13,7 @@ Open source sometimes is awesome.
 ### Comments
 
 - [Revolution](https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169)
+- [Linus Torvalds On Github Pull Requests](https://github.com/torvalds/linux/pull/17#issuecomment-5654674)
 
 ### Commits
 
