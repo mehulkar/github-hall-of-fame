@@ -1,0 +1,11 @@
+# Site settings
+title: Github Hall Of Fame
+email: mehul.kar@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Sometimes Github is awesome
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: mehulkar
+github_username:  mehulkar
+
+# Build settings
+markdown: kramdown
