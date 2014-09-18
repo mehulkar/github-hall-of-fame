@@ -1,1 +1,0 @@
-[Awesomeness](https://github.com/rails/rails/issues/16731)

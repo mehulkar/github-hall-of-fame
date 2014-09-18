@@ -1,1 +1,0 @@
-[Occasional Shutdown](https://github.com/WhiteHouse/fortyfour/issues/3)

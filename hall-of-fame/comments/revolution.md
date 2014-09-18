@@ -1,1 +1,0 @@
-[Revolution](https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169)
