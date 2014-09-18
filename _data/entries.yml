@@ -1,0 +1,59 @@
+- title: "git init"
+  link: "https://github.com/git/git/commit/e83c5163316f89bfbde7d9ab23ca2e25604af290"
+  type: "commit"
+
+- title: "Jim Weirich"
+  link: "https://github.com/jimweirich/wyriki/commit/d28fac7f18aeacb00d8ad3460a0a5a901617c2d4"
+  type: "commit"
+
+- title: "rimraf"
+  link: "https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe0acce6f1dafc8beb84f2ac"
+  type: "commit"
+
+- title: "Coffee"
+  link: "https://github.com/rails/rails/commit/9f09aeb8273177fc2d09ebdafcc76ee8eb56fe33"
+  type: "commit"
+
+- title: Revolution
+  link: "https://github.com/fre5h/DoctrineEnumBundle/pull/12#issuecomment-33023169"
+  type: "comment"
+
+- title: Useless
+  link: "https://github.com/torvalds/linux/pull/17#issuecomment-5654674"
+  type: "comment"
+
+- title: "Awesomeness"
+  link: "https://github.com/rails/rails/issues/16731"
+  type: "issue"
+
+- title: "Not Django"
+  link: "https://github.com/rails/rails/issues/1"
+  type: "issue"
+
+- title: "Occasional Shutdown"
+  link: "https://github.com/WhiteHouse/fortyfour/issues/3"
+  type: "issue"
+
+- title: "Semicolons"
+  link: "https://github.com/twbs/bootstrap/issues/3057"
+  type: "issue"
+
+- title: "Fix many bugs"
+  link: "https://github.com/textmate/textmate/pull/37"
+  type: "pull request"
+
+- title: "Heartbleed"
+  link: "https://github.com/openssl/openssl/commit/4817504d069b4c5082161b02a22116ad75f822b1"
+  type: "pull request"
+
+- title: "Master/Slave"
+  link: "https://github.com/django/django/pull/2692"
+  type: "pull request"
+
+- title: "Really important change"
+  link: "https://github.com/tenderlove/rkelly/pull/33"
+  type: "pull request"
+
+- title: "We can rebuild him"
+  link: "https://github.com/msporny/dna/pull/1"
+  type: "pull request"

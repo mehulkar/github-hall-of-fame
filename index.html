@@ -3,38 +3,11 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Comments</h1>
-  <ul class="post-list">
-    {% for comment in site.data.comments %}
-      <li>
-        <h2><a class="post-link" href="{{comment.link}}">{{comment.title}}</a></h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h1 class="page-heading">Commits</h1>
   <ul class="post-list">
     {% for comment in site.data.commits %}
       <li>
         <h2><a class="post-link" href="{{comment.link}}">{{comment.title}}</a></h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h1 class="page-heading">Issues</h1>
-  <ul class="post-list">
-    {% for comment in site.data.issues %}
-      <li>
-        <h2><a class="post-link" href="{{comment.link}}">{{comment.title}}</a></h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <h1 class="page-heading">Pull Requests</h1>
-  <ul class="post-list">
-    {% for comment in site.data.pull_requests %}
-      <li>
-        <h2><a class="post-link" href="{{comment.link}}">{{comment.title}}</a></h2>
+        <span class="post-meta">{{comment.type}}</span>
       </li>
     {% endfor %}
   </ul>
