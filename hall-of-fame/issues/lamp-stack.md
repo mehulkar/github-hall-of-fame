@@ -1,0 +1,1 @@
+[In an unrelated thread recruiter asks for a developer with “strong LAMP background,” receives photos showing lamp stacking skills.](https://github.com/thoughtbot/liftoff/pull/178#issuecomment-57690259)
