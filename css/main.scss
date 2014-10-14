@@ -31,3 +31,27 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base", "layout";
+
+banner {
+  text-align: center;
+  background-color: #01FF70;
+  background-color: rgb(236, 233, 216);
+  display: block;
+  margin-bottom: 5px;
+  box-shadow: #ccc 1px 1px 1px;
+}
+
+banner a {
+  color: #333;
+  &:hover {
+    background-color: #7FDBFF;
+    text-decoration: none;
+  }
+
+  &:visited {
+    color: #333;
+  }
+
+  display: block;
+  padding: 5px;
+}
