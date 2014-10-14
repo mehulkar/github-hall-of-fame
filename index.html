@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
   <ul class="post-list">
-    {% for comment in site.data.commits %}
+    {% for comment in site.data.entries %}
       <li>
         <h2><a class="post-link" href="{{comment.link}}">{{comment.title}}</a></h2>
         <span class="post-meta">{{comment.type}}</span>
