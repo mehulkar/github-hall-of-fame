@@ -161,38 +161,28 @@
 /**
  * Page content
  */
-.page-content {
-    padding: $spacing-unit 0;
-}
-
-.page-heading {
-    font-size: 20px;
-}
+.page-content { padding: $spacing-unit 0; }
+.page-heading { font-size: 20px; }
 
 .post-list {
-    margin-left: 0;
-    list-style: none;
-
-    > li {
-        margin-bottom: $spacing-unit;
-    }
+  margin-left: 0;
+  list-style: none;
+  > li { margin-bottom: $spacing-unit; }
 }
 
 .post-meta {
-    font-size: $small-font-size;
-    color: $grey-color;
+  font-size: $small-font-size;
+  color: $grey-color;
 }
 
 .post-link {
-    display: block;
-    font-size: 24px;
+  display: block;
+  font-size: 24px;
 }
 
 
 
-/**
- * Posts
- */
+// Posts
 .post-header {
     margin-bottom: $spacing-unit;
 }
