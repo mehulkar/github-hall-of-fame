@@ -19,12 +19,13 @@ These are somewhat loose guidelines. As more precedents are set, they
 may be modified. Feel free to explain why something deserves to
 be in the Hall of Fame when you submit PRs.
 
-Also feel free to ask on Twitter at [@mehulkar](http://twitter.com/mehulkar).
-
 #### Structure
 
-Add a file with markdown format link. The filenames should
-be dasherized. Because I like dasherized filenames. (And dashes
-are easier to type than underscores). They should
-also be lowercased. Because I like lowercase filenames.
-Add the file to the appropriate directory.
+Add an entry to `_data/entries.yml` in the same format as the others.
+Pretty straightforward, but feel free to raise any issues of this format
+doesn't capture something you would like to submit!
+
+
+#### Contact
+
+Also feel free to ask on Twitter at [@mehulkar](http://twitter.com/mehulkar).
