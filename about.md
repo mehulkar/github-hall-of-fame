@@ -1,7 +1,6 @@
 ---
 layout: default
 title: About
-permalink: /about/
 ---
 
 Sometimes epic things happen on Github and then we forget
