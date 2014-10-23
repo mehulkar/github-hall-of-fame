@@ -65,3 +65,7 @@
 - title: "Recursion (vs GOTO)"
   link: "https://github.com/igorw/retry/issues/3"
   type: "issue"
+  
+- title: "Y U NO guy"
+  link: "https://github.com/esneider/YUNOcommit.vim/pull/6"
+  type: "pull request"
