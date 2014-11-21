@@ -65,3 +65,7 @@
 - title: "Recursion (vs GOTO)"
   link: "https://github.com/igorw/retry/issues/3"
   type: "issue"
+
+- title: "First .NET Pull Request"
+  link: "https://github.com/dotnet/corefx/pull/31"
+  type: "pull request"
