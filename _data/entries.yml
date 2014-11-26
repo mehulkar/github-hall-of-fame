@@ -69,3 +69,7 @@
 - title: "First .NET Pull Request"
   link: "https://github.com/dotnet/corefx/pull/31"
   type: "pull request"
+
+- title: "It could have been a flame war"
+  link: "https://github.com/bmuller/gender_detector/pull/14"
+  type: "pull request"
