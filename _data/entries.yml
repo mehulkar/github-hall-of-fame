@@ -73,3 +73,7 @@
 - title: "It could have been a flame war"
   link: "https://github.com/bmuller/gender_detector/pull/14"
   type: "pull request"
+
+- title: "Use CoffeeScript"
+  link: "https://github.com/joyent/node/pull/2472"
+  type: "pull request"
