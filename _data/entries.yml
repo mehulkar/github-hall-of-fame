@@ -77,3 +77,8 @@
 - title: "Use CoffeeScript"
   link: "https://github.com/joyent/node/pull/2472"
   type: "pull request"
+
+- title: 'rust-lang/rust#13871: "hello world" contains Lovecraft quotes'
+  link: "https://github.com/rust-lang/rust/issues/13871"
+  type: "issue"
+  
