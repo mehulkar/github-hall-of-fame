@@ -77,3 +77,7 @@
 - title: "Use CoffeeScript"
   link: "https://github.com/joyent/node/pull/2472"
   type: "pull request"
+
+- title: "Steam for Linux deletes everything belonging to user"
+  link: "https://github.com/ValveSoftware/steam-for-linux/issues/3671"
+  type: "issue"
