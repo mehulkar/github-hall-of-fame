@@ -81,3 +81,7 @@
 - title: "Disable GC when computing deps"
   link: "https://github.com/composer/composer/commit/ac676f47f7bbc619678a29deae097b6b0710b799"
   type: "commit"
+
+- title: "Unit tests fail when run in Australia"
+  link: "https://github.com/angular/angular.js/issues/5017"
+  type: "issue"
