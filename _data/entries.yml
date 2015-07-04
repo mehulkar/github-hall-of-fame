@@ -85,3 +85,7 @@
 - title: "Unit tests fail when run in Australia"
   link: "https://github.com/angular/angular.js/issues/5017"
   type: "issue"
+
+- title: "Paul Irish perf audits reddit mobile"
+  link: "https://github.com/reddit/reddit-mobile/issues/247"
+  type: "issue"
