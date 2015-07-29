@@ -89,3 +89,7 @@
 - title: "Paul Irish perf audits reddit mobile"
   link: "https://github.com/reddit/reddit-mobile/issues/247"
   type: "issue"
+
+- title: "Retards"
+  link: https://github.com/nixxquality/WebMConverter/commit/c1ac0baac06fa7175677a4a1bf65860a84708d67
+  type: "commit"
