@@ -93,3 +93,7 @@
 - title: "Deleted, because of police"
   link: "https://archive.is/r8k7X#30.1%"
   type: "issue"
+  
+- title: "Factual information in successful petitions is ignored"
+  link: "https://github.com/WhiteHouse/petitions/issues/2"
+  type: "issue"
