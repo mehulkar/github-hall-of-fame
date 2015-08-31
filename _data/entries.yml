@@ -93,3 +93,7 @@
 - title: "Deleted, because of police"
   link: "https://archive.is/r8k7X#30.1%"
   type: "issue"
+  
+- title: "Seems legit"
+  link: "https://github.com/maxymax/WordPress/commit/2fa93590c7881fab043be7b8b51358894dbc1466"
+  type: "commit"
