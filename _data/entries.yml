@@ -93,3 +93,7 @@
 - title: "Deleted, because of police"
   link: "https://archive.is/r8k7X#30.1%"
   type: "issue"
+
+- title: "As we discussed"
+  link: "https://github.com/ericf/yui3-gallery/pull/21"
+  type: "pull request"
