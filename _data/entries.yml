@@ -59,7 +59,7 @@
   type: "pull request"
 
 - title: "Lamp stack"
-  link: "https://github.com/thoughtbot/liftoff/pull/178#issuecomment-57690259"
+  link: "https://github.com/thoughtbot/liftoff/pull/178#issuecomment-57727728"
   type: "comment"
 
 - title: "Recursion (vs GOTO)"
@@ -92,8 +92,4 @@
 
 - title: "Deleted, because of police"
   link: "https://archive.is/r8k7X#30.1%"
-  type: "issue"
-  
-- title: "What happens when a recruiter posts in a github issue"
-  link: "https://github.com/thoughtbot/liftoff/pull/178#issuecomment-57727728"
   type: "issue"
