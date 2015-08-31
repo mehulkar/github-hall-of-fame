@@ -93,3 +93,7 @@
 - title: "Deleted, because of police"
   link: "https://archive.is/r8k7X#30.1%"
   type: "issue"
+  
+- title: "Use whitespaces instead of tabs"
+  link: "https://github.com/ioquatix/latinum/pull/1"
+  type: "pull request"
