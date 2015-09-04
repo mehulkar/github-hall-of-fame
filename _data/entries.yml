@@ -97,3 +97,7 @@
 - title: "Some performance tweaks"
   link: "https://github.com/bitly/dablooms/pull/19"
   type: "pull request"
+
+- title: "Goals for 2015"
+  link: "https://github.com/ronchifabricio/metas-2015/commit/e34e5c83e1f2527c37eb50e5860375b5fb16bfd4"
+  type: "commit"
