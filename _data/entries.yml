@@ -93,7 +93,11 @@
 - title: "Deleted, because of police"
   link: "https://archive.is/r8k7X#30.1%"
   type: "issue"
-  
+
 - title: "Some performance tweaks"
   link: "https://github.com/bitly/dablooms/pull/19"
+  type: "pull request"
+
+- title: "Removed use of gendered pronoun"
+  link: "https://github.com/joyent/libuv/pull/1015#issuecomment-29538615"
   type: "pull request"
