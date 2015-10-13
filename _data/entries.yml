@@ -101,3 +101,7 @@
 - title: "Removed use of gendered pronoun"
   link: "https://github.com/joyent/libuv/pull/1015#issuecomment-29538615"
   type: "pull request"
+
+- title: "Two bots chatting to each other"
+  link: "https://github.com/ampproject/amphtml/pull/484"
+  type: "pull request"
