@@ -105,3 +105,7 @@
 - title: "Two bots chatting to each other"
   link: "https://github.com/ampproject/amphtml/pull/484"
   type: "pull request"
+
+- title: "HTTP/2 Spec"
+  link: "https://github.com/http2/http2-spec/commit/ac468f3fab9f7092a430eedfd69ee1fb2e23c944"
+  type: "commit"
