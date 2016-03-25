@@ -109,3 +109,7 @@
 - title: "HTTP/2 Spec"
   link: "https://github.com/http2/http2-spec/commit/ac468f3fab9f7092a430eedfd69ee1fb2e23c944"
   type: "commit"
+
+- title: "npmjs.org tells me that left-pad is not available (404 page)"
+  link: "https://github.com/azer/left-pad/issues/4"
+  type: "issue"
